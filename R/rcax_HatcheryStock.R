@@ -19,7 +19,7 @@
 #' 
 #' @seealso `rcax_table_query()`, `rcax_filter()`
 #' 
-rcax_superpops <- function(
+rcax_hatcherystock <- function(
     tablename = "HatcheryStock", 
     flist = NULL,
     qlist = NULL, 
